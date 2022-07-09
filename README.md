@@ -1,0 +1,2 @@
+# movie-recommender-system
+This project is a movie recommendation system. In general, it uses the Movie Lens dataset and finds users with the CNN algorithm and the nearest neighbors and recommends some top movies to each user, and this project is divided into 5 main parts: 1- Loading the data set 2- Construction of score matrix 3- Calculating the distance between users 4- Finding the nearest neighbors 5- Recommendation of top movies
